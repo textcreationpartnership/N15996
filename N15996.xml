@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:020472_0000_0FAF135970070758"/>
-            <pb facs="tcp:020472_0001_0FAF135A4081DA30"/>
+            <pb facs="unknown:020472_0000_0FAF135970070758"/>
+            <pb facs="unknown:020472_0001_0FAF135A4081DA30"/>
             <p>A Surpriſing Account, OF THE Captivity and Eſcape OF Philip M'Donald, AND Alexander M'Leod, OF VIRGINIA. FROM THE Chickkemogga Indians, AND OF THEIR Great Diſcoveries IN THE Weſtern World.</p>
             <p>From June 1779, to January 1786, when they returned in health to their Friends, After an Abſence of ſix Years and a Half.</p>
             <p>WRITTEN by THEMSELVES.</p>
@@ -127,8 +127,9 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:020472_0002_0FAF135AF521A770" rendition="simple:additions"/>
-            <pb facs="tcp:020472_0003_0FAF135BB589E6F0"/>
+            <pb facs="unknown:020472_0002_0FAF135AF521A770"
+                rendition="simple:additions"/>
+            <pb facs="unknown:020472_0003_0FAF135BB589E6F0"/>
             <head>A Surpriſing Account &amp;c. OF DISCOVERIES IN THE Weſtern World.</head>
             <p>IT has been a matter of obſervation, that whatever is out of the common line of hu<g ref="char:EOLhyphen"/>man occurrences, though credibly atteſted to, is generally paſſed over very ſlightly, and treated as empty chim<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -141,7 +142,7 @@
                   <desc>•</desc>
                </gap>r extraordinary diſcoveries will be highly pleaſing to the public in gener<g ref="char:EOLhyphen"/>al, and pay the expence of printing, &amp;c.</p>
             <p>
-               <pb n="4" facs="tcp:020472_0004_0FAF135C6FF705B0"/>It was early in the month of May in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="4" facs="unknown:020472_0004_0FAF135C6FF705B0"/>It was early in the month of May in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ear 1779. that the narrators<g ref="char:punc">▪</g> Philip M'Don<g ref="char:EOLhyphen"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -158,7 +159,7 @@
                </gap>connoitre the ſitu<g ref="char:EOLhyphen"/>ation of a number of indians ſuppoſed to be in the vicinity; after a tedious ſcout of three or four days, we were almoſt worn out with fa<g ref="char:EOLhyphen"/>tigue, and being deſtitute of neceſſaries, we determined to return to the main body, but were ſoon convinced of the impracticability of our ſcheme. It was juſt about eight o'clock in the evening of the 17th of June, when, not being apprehenſive of danger, we were ſet down to ſupper on a quarter of a buck, which one of our company had killed about two hours before; our arms and ammunition were about thirty rods diſtant; our little company as happy in their repaſt as good food and keen appetites could make them; and the fear of an enemy entirely ban<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ſhed from our minds, when we were fired on by a party of about twenty indians of the Chickkemogga nation, and four out of ten, of which number our
-<pb n="5" facs="tcp:020472_0005_0FAF135D7A345460"/>
+<pb n="5" facs="unknown:020472_0005_0FAF135D7A345460"/>
 company con<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -202,7 +203,7 @@ company con<gap reason="illegible" resp="#PDCC" extent="1 letter">
             <p>A great fire was now ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e, and the two
-<pb n="6" facs="tcp:020472_0006_0FAF135E85441948"/>
+<pb n="6" facs="unknown:020472_0006_0FAF135E85441948"/>
 unfortunate creatures, who, as before related, were badly wounded, named Thomas Hud<g ref="char:EOLhyphen"/>ſlip, and William Gradnow, of Pennſylvania, were ſtript naked, and bound faſt to the tops of two ſaplings, previouſly cleared of limbs and bark for the horrid buſineſs. Theſe ſap<g ref="char:EOLhyphen"/>lings were juſt ſtrong enough to keep the en<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> ſeebled bodies of the unfortunate ſufferers in an erect poſition. Another ſapling, rather larger was now pruned of the limbs and bent down ſo as to reach the heads of the victims, by the weight of two indians, who, having with their knives cut round the ſkin of each of the victim's heads, from the forehead to the back of the neck, and ſk<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -215,14 +216,14 @@ unfortunate creatures, who, as before related, were badly wounded, named Thomas 
                   <desc>•</desc>
                </gap>ls dropped into the fire, the fire was then renewed, about them and the whole carcaſes conſumed to aſhes,</p>
             <p>
-               <pb n="7" facs="tcp:020472_0007_0FAF135EA7693BC0"/>After this moſt horrid and unnatural trag<g ref="char:EOLhyphen"/>edy, we were carried on for ſix days through the woods into the Ohio country, without making any ſtop, here our other two com<g ref="char:EOLhyphen"/>panions, were unable to proceed any farther, by reaſon of their wounds, they were there<g ref="char:EOLhyphen"/>fore maſſacred in a manner equally cruel as the others, being roaſted to death by ſuch ſlow degrees, as to be nearly twenty four hours in the extremity of torture.</p>
+               <pb n="7" facs="unknown:020472_0007_0FAF135EA7693BC0"/>After this moſt horrid and unnatural trag<g ref="char:EOLhyphen"/>edy, we were carried on for ſix days through the woods into the Ohio country, without making any ſtop, here our other two com<g ref="char:EOLhyphen"/>panions, were unable to proceed any farther, by reaſon of their wounds, they were there<g ref="char:EOLhyphen"/>fore maſſacred in a manner equally cruel as the others, being roaſted to death by ſuch ſlow degrees, as to be nearly twenty four hours in the extremity of torture.</p>
             <p>After ſix days further very ſevere travel, we arrived at a large indian town. Here we were met by a great number of indians, men, women and children, who were no ſooner ac<g ref="char:EOLhyphen"/>quainted with the loſs they had ſuſtained by our means, than they determined on putting us to the torture for revenge: We were both ac<g ref="char:EOLhyphen"/>cordingly ſtr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>pped, and whipped by every in<g ref="char:EOLhyphen"/>dian preſent, till at length we fainted with an<g ref="char:EOLhyphen"/>guiſh and loſs of blood. After remaining ſome time in this diſtreſt ſituation, we were removed into a wigwam, under a ſtrong guard of indians, to be kept a few days till the arri<g ref="char:EOLhyphen"/>val of another party expected from the weſtward, who were going to war againſt the Americans, when we were to be ſacrificed. But this horrid ſcene we providentially eſcap<g ref="char:EOLhyphen"/>ed in the following remarkable manner.</p>
             <p>The ſixth night after our dreadful puniſh<g ref="char:EOLhyphen"/>ment, we awoke, and perceiving that four out of ſix of our guard were aſleep, and the other<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> in a defenceleſs poſture, as our ſoreneſs made them think we could do them no harm: being both unbound, and two or three tomahawks
-<pb n="8" facs="tcp:020472_0008_0FAF136113150280"/>
+<pb n="8" facs="unknown:020472_0008_0FAF136113150280"/>
 lying within our reach, we determined to make an attempt to eſcape; we communicated our intention by ſigns to each other, and ſeizing the tomahawks ſunk them in an in<g ref="char:EOLhyphen"/>ſtant in the heads of the waking indians. We killed the others likewiſe without any noiſe, and ſnatching up our own knapſacks and clothes that lay in one corner of the wigwam, and taking each of us a knife, tomahawk and muſket, we iſſued forth and traveling all night, reached the top of a high mountain<g ref="char:punc">▪</g> here we tarried near a week, feeding on roots, &amp;c. till our wounds began to heal, and then purſued our rout along the mountain, fearing to deſcend into the vallies, leaſt we ſhou'd fall into the hands of the inhuman ſavages, which we dreaded worſe than death itſelf. It was now, according to our calculation, about the middle of Auguſt, and we had traveled near twelve days, improving every hour we could, in a due weſt direction We were arrived at a part of the country beautiful to view, the a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>r was ſerene, the trees at ſo great a d<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -234,7 +235,7 @@ lying within our reach, we determined to make an attempt to eſcape; we communic
                </gap>eably around <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="9" facs="tcp:020472_0009_0FAF136216318C90"/>
+               <pb n="9" facs="unknown:020472_0009_0FAF136216318C90"/>
 We had ranged about for ſome time in ſearch of a ſpring, when we at laſt came to one, on the ſide of a hill, that laid open to the ſun. We d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>pped up a cupfull and taſted it, when we were ſurpr<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -265,14 +266,14 @@ We had ranged about for ſome time in ſearch of a ſpring, when we at laſt cam
                   <desc>•</desc>
                </gap>y ever eat more than one meal a day of our preſerved food.</p>
             <p>We reckoned now that it muſt be about the
-<pb n="10" facs="tcp:020472_0010_0FAF1363D25ECDF8"/>
+<pb n="10" facs="unknown:020472_0010_0FAF1363D25ECDF8"/>
 latter part of September, and as we had travel<g ref="char:EOLhyphen"/>ed at a great rate, we thought ourſelves out of the reach of the hoſtile indians, and thinking ſo beautiful a country muſt be deſigned for the ſuſtenance of ſome favored beings, we determined to deſcend into the vallies, and make what diſcoveries we could.</p>
             <p>We had paſſed ſeveral ſmall rivers on legs, and trunks of trees, &amp;c. which we found blown down and lying near their banks, but after travelling in the low lands about three weeks longer, in our old due weſt courſe, we arrived at the bank of a large river or ſea. We thought now that all our journeying weſtward, was at an end, however after tra<g ref="char:EOLhyphen"/>velling along the bank of the river a few days we diſcovered a large canoe with paddles in it; this circumſtance made us fear we were rear ſome nation of indians, and as we were afraid of falling into the hands of ſavages, we determined, to embark, although the wind blow high from the eaſt, and accordingly jumping into the canoe, we ſoon rigged up a ſort of a maſt, and committed ourſelves to the mercy of the winds and waves.</p>
             <p>We had when we went on board, about ten days proviſion, which we determined to huſband to the beſt advantage as we were uncertain what proviſion we ſhould find on the weſtern ſhore.</p>
             <p>It was about the middle of the afternoon when we embarked, and as we ſailed at a great rate we were ſoon out of ſight of land, howe<g ref="char:EOLhyphen"/>ver as the wind ſeemed rather to fall than ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e,
-<pb n="11" facs="tcp:020472_0011_0FAF1363ED464560"/>
+<pb n="11" facs="unknown:020472_0011_0FAF1363ED464560"/>
 and the weather was clear, we apprehended no danger, but put on before the wind cheer<g ref="char:EOLhyphen"/>ful expectation of reaching the weſtern ſhore next morning. But alas! how uncertain are all human proſpects; about midnight, we were <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>urried away by a ſwift ſouth-weſt cur<g ref="char:EOLhyphen"/>rent, at an inconceivable ſwift rate, without any pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -293,7 +294,7 @@ and the weather was clear, we apprehended no danger, but put on before the wind 
             <p>Here we muſt mention with admiration, the ſurprizing benificence of Deity, in repleniſhing the earth with every neceſſary and even luxu<g ref="char:EOLhyphen"/>rious growth of nature, for the ſuſtenance of his dependent creatures. Here we found a fine well watered country, beautiful to behold, the trees were exceeding high and large, at a great diſtance from each other, and ſo little underbruſh that a man may eaſily have cleared an acre in two days. The wild fruits were excellent, and the ſpontaneous growths of the earth were beyond all deſcr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ption luxuriant. We had not travelled far in the level country,
-<pb n="12" facs="tcp:020472_0012_0FAF1364C64EF1C8"/>
+<pb n="12" facs="unknown:020472_0012_0FAF1364C64EF1C8"/>
 before we reached a large plain kind of track, free from every ſort of vegetation, and re<g ref="char:EOLhyphen"/>ſembling a road in America: on ſeeing this, we concluded we muſt be near ſome ſort of inhabi<g ref="char:EOLhyphen"/>tants, but as we were uncertain of what ſort they may be it made us tremble with appre<g ref="char:EOLhyphen"/>henſion. We l<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -340,7 +341,7 @@ before we reached a large plain kind of track, free from every ſort of vegetati
                </gap>d beg h<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>m not to kill us. He was pleaſed beyond meaſure to hear us
-<pb n="13" facs="tcp:020472_0013_0FAF1365754976D8"/>
+<pb n="13" facs="unknown:020472_0013_0FAF1365754976D8"/>
 ſpeak, and told us to apprehend no dan<g ref="char:EOLhyphen"/>ger from him, for he belonged to a race of beings that never intentionally did harm to any creature.</p>
             <p>We were greatly relieved from our fears by this declaration, and after about an hour's travel, upon riſing a high hill we diſcovered a large regular built city before us, in appear<g ref="char:EOLhyphen"/>ance, but when we came to it our aſtoniſhment was greatly encreaſed. The houſes were ex<g ref="char:EOLhyphen"/>ceedingly beautiful and lofty though conſiſt<g ref="char:EOLhyphen"/>ing of but two ſtories, and the people appear<g ref="char:EOLhyphen"/>ed exceedingly loving and tractable.</p>
             <p>It was only a little village as they informed us, about ten Engliſh miles in length, and the ſame in breadth, and contained about five hundred families.</p>
@@ -360,7 +361,7 @@ before we reached a large plain kind of track, free from every ſort of vegetati
                </gap>and miles in circum<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>erence.
-<pb n="14" facs="tcp:020472_0014_0FAF136630206388"/>
+<pb n="14" facs="unknown:020472_0014_0FAF136630206388"/>
 That they were prohibited by their religion from war, and that murder and infidelity were equally unknown among them.</p>
             <p>They addreſs their praiſes to the ſun, as the repreſentative of the being they adore; for which purpoſe the whole village were ſummoned together at the riſing and ſetting of that planet. When with united voices, and a ſolemn attention beyond what we had ever ſeen before, they performed their ceremonies.</p>
             <p>Theſe people are ſtrangers to the uſe of fleſh, and all kinds of ſpirituous liquors; they live to a great age, and though vaſtly numerous, they populate to ſlow that it is very ra<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -370,7 +371,7 @@ That they were prohibited by their religion from war, and that murder and infide
             <p>We could have ſpent our lives among this people contentedly, and never ſhould have thought of ſeeking for another home, but Providence had ordered otherwiſe, and <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> re<g ref="char:EOLhyphen"/>turn
-<pb n="15" facs="tcp:020472_0015_0FAF1366F391EB68"/>
+<pb n="15" facs="unknown:020472_0015_0FAF1366F391EB68"/>
 to our native home after a long abſence was effected by accident as follows.</p>
             <p>On a little uninhabited iſland, about three leagues from the main, grows a ſort of fruit of which the inhabitants of the main are ex<g ref="char:EOLhyphen"/>ceeding fond, and which, when dried, in taſte, nearly reſembles rich cake: the produce of this iſland is collected annually by the king's ord<g ref="char:EOLhyphen"/>ers, and diſtributed throughout his dominions. The water craft made uſe of in this buſineſs, is very large and ſtrong built boats, con<g ref="char:EOLhyphen"/>veniently fixed for the purpoſe, &amp; covered with a deck to prevent the fruit from getting wet. The annual produce of this iſland is comput<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -405,7 +406,7 @@ to our native home after a long abſence was effected by accident as follows.</p
                </gap> us to <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> our<g ref="char:EOLhyphen"/>ſelves
-<pb n="16" facs="tcp:020472_0016_0FAF1367DB929BE8"/>
+<pb n="16" facs="unknown:020472_0016_0FAF1367DB929BE8"/>
 up cloſe, the ſtorm continuing with unremitted fury for ſeveral days, during which we loſt ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> rudder and maſt.</p>
